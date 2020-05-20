@@ -7,13 +7,13 @@ We are the **Hack Your Future DREAM TEAM** at your service!
 
 
 ## Coaches
-- Tiago 
+- [Tiago](tiago.md)
 
-### Students 
+### Our studens 
 
-- Razvan
-- Ismail
-- Olga
-- Kateryna
-- ShaRaf
-- Hazem
+- [Razvan](razvan.md)
+- [Ismail](ismail.md)
+- [Olga](olga.md) 
+- [Kateryna](kateryna.md)
+- [ShaRaf](sharaf.md)
+- [Hazem](hazem.md)
