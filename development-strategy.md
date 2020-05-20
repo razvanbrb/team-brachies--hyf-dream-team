@@ -124,6 +124,23 @@ Change this team member's name on the list into a link to their new profile page
 
 
 ---
+## 7. User Story: introducing _Sharaf_
+
+__As a site visitor, I want to learn more about *Sharaf*__
+
+### Repo
+
+This user story was developed on a brach called `5-sharaf`
+
+### [sharaf.md](sharaf.md)
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+--
 ## X. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
