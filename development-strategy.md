@@ -89,15 +89,15 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 ---
-## 3. User Story: introducing _Ismail_
+## 5. User Story: introducing _Kateryna_
 
-__As a site visitor, I want to learn more about *Ismail*__
+__As a site visitor, I want to learn more about *Kateryna*__
 
 ### Repo
 
-This user story was developed on a brach called `4-ismail`
+This user story was developed on a brach called `5-kateryna`
 
-### [ismail.md](ismail.md)
+### [kateryna.md](kateryna.md)
 
 Write a markdown bio page for this team member
 
