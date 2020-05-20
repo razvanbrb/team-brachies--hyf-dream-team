@@ -25,7 +25,7 @@ _ If you are searching for help and need we can help you. Don't esitate to conta
 
 
 
-## 1. User Story: about your team
+## 1. User Story: about HYF Dream Team
 
 __As a site visitor, I want to know about your team and who is in it__
 
