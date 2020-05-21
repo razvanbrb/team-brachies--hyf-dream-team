@@ -1,7 +1,7 @@
 # team-brachies-hyf-dream-team  
 
 We are the **Hack Your Future DREAM TEAM** at your service!
-
+_Our mission is to create the future of tomorrow._
 
 
 
