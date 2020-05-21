@@ -72,9 +72,21 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 ---
+## 3. User Story: introducing _Ismail_
 
-... fill out one section for each team member ...
+__As a site visitor, I want to learn more about *Ismail*__
 
+### Repo
+
+This user story was developed on a brach called `4-ismail`
+
+### [ismail.md](ismail.md)
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 ---
 
 ## X. Finishing Touches
