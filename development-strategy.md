@@ -5,9 +5,7 @@
 
 We are the **Hack Your Future DREAM TEAM** at your service!
 
-_Our mission is to creat the future of tomorrow._
-_We are here for those who need help_
-_ If you are searching for help and need we can help you. Don't esitate to contact us._
+
 
 ## 0. Set-Up
 
