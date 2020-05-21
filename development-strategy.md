@@ -72,7 +72,7 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 ---
-## 3. User Story: introducing _Ismail_
+## 4. User Story: introducing _Ismail_
 
 __As a site visitor, I want to learn more about *Ismail*__
 
@@ -87,6 +87,24 @@ Write a markdown bio page for this team member
 ### README.md
 
 Change this team member's name on the list into a link to their new profile page
+
+---
+## 5. User Story: introducing _Kateryna_
+
+__As a site visitor, I want to learn more about *Kateryna*__
+
+### Repo
+
+This user story was developed on a brach called `5-kateryna`
+
+### [kateryna.md](kateryna.md)
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
 ---
 
 ## X. Finishing Touches
